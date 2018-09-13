@@ -1,2 +1,2 @@
-# Decciders
-Final year projecgt
+# Deciders
+Final year project
